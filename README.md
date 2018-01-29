@@ -10,3 +10,11 @@ Actualmente en desarrollo.
 Sigo creando más niveles y mejorando los existentes. 
 
 La idea principal es crear una buena cantidad de recorridos adaptados por niveles en los que la dificultad sea progresiva y las niñas y niños aprendan y desarrollen las habilidades que aporta el escornabot. 
+
+Este proyecto como ya se ha dicho se basa en el escornabot, un robot educativo de código y hardware abierto cuyo objetivo es acercar la robótica y la programación a las niñas y niños. 
+
+Podéis encontrar más información aquí: http://escornabot.com
+
+Por otro lado se basa en el tablero creado por [Pablorubma](https://github.com/pablorubma/escornabot-DIY/tree/master/tableros-juegos/corte-laser/piezas-escornabot)
+
+En estos momentos estoy diseñando las piezas para imprimirlas en 3D para los que no tenemos acceso a una cortadora laser. 
