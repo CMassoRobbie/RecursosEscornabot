@@ -18,3 +18,7 @@ Podéis encontrar más información aquí: http://escornabot.com
 Por otro lado se basa en el tablero creado por [Pablorubma](https://github.com/pablorubma/escornabot-DIY/tree/master/tableros-juegos/corte-laser/piezas-escornabot)
 
 En estos momentos estoy diseñando las piezas para imprimirlas en 3D para los que no tenemos acceso a una cortadora laser. 
+
+Ejemplo: 
+
+![Ficha Escornagame](https://github.com/CMassoRobbie/RecursosEscornabot/blob/master/Fichas%20EscornaGame/Nivel2C.png)
