@@ -22,3 +22,10 @@ En estos momentos estoy diseñando las piezas para imprimirlas en 3D para los qu
 Ejemplo: 
 
 ![Ficha Escornagame](https://github.com/CMassoRobbie/RecursosEscornabot/blob/master/Fichas%20EscornaGame/Nivel2C.png)
+
+
+## Tablero reinos ánimales 
+
+Es un juego muy simple en el que se debe programar el escornabot para que vaya directamente del dibujo al reino de los seres vivos que le corresponde. O bien salir del reino y programarlo para que vaya al dibujo que le corresponde. 
+
+Es recomendable que si varios niños o niñas están prácticando con este tablero se alternen para salir de un sitio o de otro. De esta manera conseguimos que piensen ellos mismos y no copien lo que han hecho sus compañeros o compañeras. 
